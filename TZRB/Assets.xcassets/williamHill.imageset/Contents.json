@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "600x400_William-Hill.51146d201bb6496d3c60e5c31c3bc7a9c87a5b7a.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "600x400_William-Hill.51146d201bb6496d3c60e5c31c3bc7a9c87a5b7a 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "600x400_William-Hill.51146d201bb6496d3c60e5c31c3bc7a9c87a5b7a 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
